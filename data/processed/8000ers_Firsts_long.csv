@@ -1,0 +1,56 @@
+﻿table,category,group,person_or_group,citizen,finish_date
+individual,First 2,male_ox,Tsuneo Shigehiro,Jp,10.05.1980
+individual,First 2,male_no_ox,Reinhold Messner,It,12.07.1979
+individual,First 2,female_ox,Wanda Rutkiewicz (†),Pl,23.06.1986
+individual,First 2,female_no_ox,Alison Hargreaves (†),UK,13.08.1995
+individual,First 3,male_ox,Noboru Yamada (†),Jp,24.07.1985
+individual,First 3,male_no_ox,Reinhold Messner,It,06.05.1982
+individual,First 3,female_ox,Edurne Pasaban,E,18.05.2009
+individual,First 3,female_no_ox,Gerlinde Kaltenbrunner,A,23.08.2011
+individual,Everest-Lhotse,male_ox,James Michael Horst,USA,15.05.2011
+individual,Everest-Lhotse,male_no_ox,Nirmal Purja Pun Magar,UK,16.05.2022
+individual,Everest-Lhotse,female_ox,Hilaree Janet O'Neill (†),USA,26.05.2012
+individual,Everest-Lhotse,female_no_ox,none,,
+individual,First 5,male_ox,Jerzy Kukuczka (†),Pl,08.07.1986
+individual,First 5,male_no_ox,Reinhold Messner,It,16.10.1986
+individual,First 5,female_ox,Go Mi-Sun (†),SK,18.05.2009
+individual,First 5,female_no_ox,Gerlinde Kaltenbrunner,A,23.08.2011
+individual,Pakistan 5,male_ox,Um Hong-Gil,SK,31.07.2000
+individual,Pakistan 5,male_no_ox,Reinhold Messner,It,02.08.1982
+individual,Pakistan 5,female_ox,Oh Eun-Sun,SK,03.08.2009
+individual,Pakistan 5,female_no_ox,Nives Meroi,It,26.07.2006
+individual,First 14 <RR,male_ox,Jerzy Kukuczka (†),Pl,18.09.1987
+individual,First 14 <RR,male_no_ox,Reinhold Messner,It,16.10.1986
+individual,First 14 <RR,female_ox,Edurne Pasaban,E,17.05.2010
+individual,First 14 <RR,female_no_ox,Gerlinde Kaltenbrunner,A,23.08.2011
+individual,First 14 >RR,male_ox,Nirmal Purja Pun Magar,Np/M,08.10.2021
+individual,First 14 >RR,male_no_ox,Edmund Viesturs,USA,12.05.2005
+individual,First 14 >RR,female_ox,Dong Hong-Juan,Chn,26.04.2023
+individual,First 14 >RR,female_no_ox,none,,
+relationships,First 2,climbing_couple_ox,Go Mi-Sun (†) & Kim Jae-Soo,SK,01.08.2008
+relationships,First 2,married_couple_no_ox,Nives Meroi & Romano Benet,It,17.05.2007
+relationships,First 2,brothers_ox,Mingma & Chhang Dawa,Np/Sh,31.07.2012
+relationships,First 2,brothers_no_ox,Alberto & Félix (†) Iñurrategi,E,24.06.1994
+relationships,First 3,climbing_couple_ox,Go Mi-Sun (†) & Kim Jae-Soo,SK,18.05.2009
+relationships,First 3,married_couple_no_ox,Nives Meroi & Romano Benet,It,18.05.2014
+relationships,First 3,brothers_ox,Mingma & Chhang Dawa,Np/Sh,31.07.2012
+relationships,First 3,brothers_no_ox,Alberto & Félix (†) Iñurrategi,E,06.05.1996
+relationships,Everest-Lhotse,climbing_couple_ox,none,,
+relationships,Everest-Lhotse,married_couple_no_ox,none,,
+relationships,Everest-Lhotse,brothers_ox,none,,
+relationships,First 5,climbing_couple_ox,Go Mi-Sun (†) & Kim Jae-Soo,SK,18.05.2009
+relationships,First 5,married_couple_no_ox,Nives Meroi & Romano Benet,It,12.05.2016
+relationships,First 5,brothers_ox,Mingma & Chhang Dawa,Np/Sh,31.07.2012
+relationships,First 5,brothers_no_ox,Alberto & Félix (†) Iñurrategi,E,06.05.1996
+relationships,Pakistan 5,climbing_couple_ox,none,,
+relationships,Pakistan 5,married_couple_no_ox,Nives Meroi & Romano Benet,It,26.07.2006
+relationships,Pakistan 5,brothers_ox,Mingma & Chhang Dawa,Np/Sh,31.07.2012
+relationships,Pakistan 5,brothers_no_ox,none,,
+relationships,First 14 <RR,climbing_couple_ox,none,,
+relationships,First 14 <RR,married_couple_no_ox,Nives Meroi & Romano Benet,It,11.05.2017
+relationships,First 14 <RR,brothers_ox,Mingma & Chhang Dawa,Np/Sh,30.04.2013
+relationships,First 14 <RR,brothers_no_ox,none,,
+relationships,First 14 >RR,climbing_couple_ox,none,,
+relationships,First 14 >RR,married_couple_no_ox,none,,
+relationships,First 14 >RR,brothers_ox,none,,
+relationships,First 14 >RR,brothers_no_ox,none,,
